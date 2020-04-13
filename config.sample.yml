@@ -8,6 +8,7 @@ providers:
         username: gino.pilotino@gmail.com
         password: MySuperSecretPassword
 slack: 
+    isEnabled: true
     webhook: https://hooks.slack.com/services/[my-slack-channel-webook]
 
 misc:

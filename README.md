@@ -46,6 +46,10 @@ quindi attendere l'installazione che potrebbe durare qualche minuto.
 - Cambiare il numero di minuti di intervallo tra un check e il seguente cambiando
   il valore riportato nella configurazione. Per prevenire blocchi dell'account è
   consigliabile non scendere mai sotto i **5 minuti**.
+- Cambiare l'indirizzo del **webhook** di **Slack** a cui le informazioni sulla
+  disponibilità vengono inviate (è necessario un account Slack e un canale sui cui
+  creare un webhook di destinazione). La disabilitazione di Slack da configurazione
+  comporta la scrittura del messaggio nella console della linea di comando.
 
 ## Avvio del programma
 
