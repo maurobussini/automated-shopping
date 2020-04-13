@@ -15,7 +15,7 @@ Per l'esecuzione sono necessari i seguenti requisiti sul computer di esecuzione
 - Yarn [Yarn Package Manager](https://classic.yarnpkg.com/latest.msi)
   - Installare la versione stable con le impostazioni di default
 
-Dopo aver installato NodeJe e Yarn, verificare il loro funzionamento lanciando da 
+Dopo aver installato NodeJs e Yarn, verificare il loro funzionamento lanciando da 
 linea di comando (Powershell o Cmd) i seguenti comandi:
 
 - `node --version`
