@@ -1,0 +1,14 @@
+providers: 
+    tigros: 
+        isEnabled: true
+        username: gino.pilotino@gmail.com
+        password: MySuperSecretPassword
+    esselunga:
+        isEnabled: true
+        username: gino.pilotino@gmail.com
+        password: MySuperSecretPassword
+slack: 
+    webhook: https://hooks.slack.com/services/[my-slack-channel-webook]
+
+misc:
+    minutesInterval: 10

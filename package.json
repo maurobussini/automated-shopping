@@ -1,0 +1,16 @@
+{
+  "name": "shopping-notifier",
+  "version": "1.0.0",
+  "author": "maurobussini",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/start.js"
+  },
+  "dependencies": {
+    "delay": "^4.3.0",
+    "puppeteer": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "yaml": "^1.8.3"
+  }
+}
