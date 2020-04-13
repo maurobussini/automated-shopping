@@ -8,11 +8,11 @@ async function doWork() {
     //Get current date
     let date = new Date().toLocaleTimeString();
 
-    // // Execute Tigros provider
-    // console.log("[" + date + "] Starting check online shop on Tigros...");
-    // const tigrosAutomate = new tigros.TigrosAutomate();
-    // await tigrosAutomate.check();
-    // console.log("Check completed.");
+    // Execute Tigros provider
+    console.log("[" + date + "] Starting check online shop on Tigros...");
+    const tigrosAutomate = new tigros.TigrosAutomate();
+    await tigrosAutomate.check();
+    console.log("Check completed.");
 
     // Execute Esselung provider
     console.log("[" + date + "] Starting check online shop on Esselunga...");
